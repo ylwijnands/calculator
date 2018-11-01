@@ -1,0 +1,18 @@
+table {
+    border-style: dotted;
+    border-color: pink;
+    background-color: red
+}
+
+.operator {
+    background-color: pink;
+}
+.operator:hover {background-color: #ed365e;
+    color: white;
+}
+#clear {
+    background-color: #ed365e;
+    color: white;
+    font-weight: bolder;
+}
+#clear:hover { background-color:;
